@@ -50,6 +50,8 @@ BUG REPORT INFORMATION
 
 **Output of `infinit doctor all`:**
 
+<details>
 ```
 (paste your output here)
 ```
+</details>
