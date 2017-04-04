@@ -7,9 +7,9 @@ GENERAL SUPPORT INFORMATION
 
 The GitHub issue tracker is for bug reports only.
 
-For feature requests, visit our uservoice page [http://infinit.uservoice.com](http://infinit.uservoice.com).
+For feature requests, visit our UserVoice page (http://infinit.uservoice.com).
 
-If you have specific question, you can contact us on [Slack](https://infinit.sh#slack) using the appropriate channel:
+If you have specific question, you can contact us on Slack (https://infinit.sh#slack) using the appropriate channel:
 - #command-line-tools
 - #file-system
 - #hub
@@ -18,16 +18,14 @@ If you have specific question, you can contact us on [Slack](https://infinit.sh#
 ---------------------------------------------------
 BUG REPORT INFORMATION
 ---------------------------------------------------
-Use the commands below to provide key information from your environment:
 -->
 
 **Description**
 
-<!--
-Briefly describe the problem you are having in a few paragraphs.
--->
+
 
 **Steps to reproduce the issue:**
+
 1.
 2.
 3.
@@ -35,10 +33,14 @@ Briefly describe the problem you are having in a few paragraphs.
 **Describe the results you received:**
 
 
+
 **Describe the results you expected:**
 
 
+
 **Additional information you deem important (e.g. issue happens only occasionally):**
+
+
 
 **Output of `infinit --version`:**
 
